@@ -12,8 +12,9 @@
 
 I am a developer who is passionate about stuff like android and competetive programming. Few technologies that I enjoy working with are Android, Kotlin, Java, C++, Flutter and Firebase. I am actively looking for opportunities in Application Development Internship.
 
+- 💻 Working as a frontend developer intern at [@grofers](https://github.com/grofers)
 - 🎓 I am a IT undergraduate student with 9.2 GPA at Heritage Institute of Technology, Kolkata. 
-- 👨‍💻 Currently working, learning and growing my skillset in application development, competitive coding, data structures and algorithms.
+- 👨‍💻 Currently learning and growing my skillset in application development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in application development.
 - 📳 One of my favorite applications is [Study Partner](https://play.google.com/store/apps/details?id=com.studypartner&hl=en_IN) which helps students manage their college notes, maintain attendance and create reminders.
 
@@ -28,6 +29,11 @@ I am a developer who is passionate about stuff like android and competetive prog
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
+<br>
+
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <br>
 
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
